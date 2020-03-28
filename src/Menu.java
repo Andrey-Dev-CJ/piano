@@ -11,7 +11,7 @@ public class Menu extends JFrame
     private static final long serialVersionUID = 1L;
     public Menu()
     {
-        super("First Piano");
+        super("MyFirst Piano");
         setDefaultCloseOperation( EXIT_ON_CLOSE );
 
 
