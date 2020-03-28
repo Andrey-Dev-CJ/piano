@@ -194,22 +194,22 @@ public class Menu extends JFrame
                             break;
                         case "<html><h2><font color=\"black\">G#":
                             MiniMiniMusicApp mini8 = new MiniMiniMusicApp();
-                            mini8.play(48);
+                            mini8.play(49);
                             System.out.println("нота G#");
                             break;
                         case "<html><h2><font color=\"black\">A ":
                             MiniMiniMusicApp mini9 = new MiniMiniMusicApp();
-                            mini9.play(48);
+                            mini9.play(50);
                             System.out.println("нота A");
                             break;
                         case "<html><h2><font color=\"black\">A#":
                             MiniMiniMusicApp mini10 = new MiniMiniMusicApp();
-                            mini10.play(48);
+                            mini10.play(51);
                             System.out.println("нота A#");
                             break;
                         case "<html><h2><font color=\"black\">B ":
                             MiniMiniMusicApp mini11 = new MiniMiniMusicApp();
-                            mini11.play(48);
+                            mini11.play(52);
                             System.out.println("нота B");
                             break;
                         default:
