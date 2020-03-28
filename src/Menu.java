@@ -222,3 +222,4 @@ public class Menu extends JFrame
         new Menu();
     }
 }
+
